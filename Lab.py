@@ -16,7 +16,7 @@ km = float(input("Enter distance in kilometers: "))
 miles = km * 0.621371
 print(f"{km} kilometers is equal to {miles} miles")
 
-#4. Find the Simple Interest on Rs. 200 for 5 years at 5% per year. give python small code
+#4. Find the Simple Interest on Rs. 200 for 5 years at 5% per year. 
 
 P = 200
 T = 5
